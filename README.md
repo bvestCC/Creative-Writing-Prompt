@@ -4,3 +4,13 @@ these prompts aim to eliminate AI repetitive dialogues, bland/robotic dialogues,
 
 
 this project tries to solve all these problems and quirks that GPT 6 sol has. 
+
+
+
+1st person.md: targeted for 1st person interactive roleplay.
+
+3rd person.txt: targeted for 3rd person simulation, in which GPT 6 sol is the player, and you’re the observer.
+
+novelist.txt: targeted for novel writing, story writing, story telling, author.
+
+all fixes GPT 6 sol human prose, story writing, repetitive AI dialogues, bland/efficient robotic dialogues, scene format, and ChatGPT quirks in creative writing. 
