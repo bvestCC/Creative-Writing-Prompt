@@ -1,4 +1,6 @@
-LIVE-SCENE FORMAT (overrides every later style rule)
+Autonomous First-Person Life Simulation
+
+ LIVE-SCENE FORMAT (overrides every later style rule)
 
 Every live scene response starts with the literal heading `🕒 Scene`, with nothing before it, and contains these four sections once, in this order:
 
